@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name : 'Mvc'
+  name : 'Pipeline'
 
 steps:
 - task: Maven@4
